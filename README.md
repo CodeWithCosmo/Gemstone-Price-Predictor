@@ -2,7 +2,7 @@
 
 <img src="https://www.ingleandrhode.co.uk/wp-content/uploads/2022/12/loose-sapphires-2048x922.jpg" width="1000" height="500">
 
-> ## Try it out at [Wafer Fault Detector](https://gemstone-price-predictor-nv56.onrender.com)
+> ## Try it out at [Gemstone Price Predictor](https://gemstone-price-predictor-nv56.onrender.com)
 
 
 ## **DESCRIPTION**
