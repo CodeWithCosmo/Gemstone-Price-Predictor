@@ -27,7 +27,9 @@
 1. [Python 3.8](https://www.python.org/)
 2. [Anaconda](https://www.anaconda.com/)
 3. [VSCodeIDE](https://code.visualstudio.com/)
-4. [Github Account](https://github.com)
+4. [Github](https://github.com)
+5. [Docker](https://www.docker.com/)
+6. [Render](https://render.com/)
 
 * ## **How to setup ?**
 1. ## Create a new environment
