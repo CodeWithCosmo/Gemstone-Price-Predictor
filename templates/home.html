@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gemstone Price Prediction ML API</title>
+    <!-- Add any CSS stylesheets you need -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/home.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Gemstone Price Prediction Project</h1>
+        <p>A project to predict gemstone prices based on various features.</p>
+    </header>
+
+    <main>
+        <div class="container">
+            <h2>Project Details:</h2>
+            <ul>
+                <li><strong>Project Name:</strong> Gemstone Price Prediction</li>
+                <li><strong>Description:</strong> This project aims to predict the price of gemstones based on various features such as carat, cut, color, clarity, depth, and table.</li>
+                <li><strong>Dataset:</strong> The dataset used in this project is taken from Kaggle.</li>
+                <li><strong>Machine Learning Model:</strong> In this project, I used regression algorithms (e.g., linear regression, decision tree regression, or random forest regression) to build the prediction model.</li>
+                <li><strong>Web Application:</strong> I created a flask application to allow users to input gemstone details and get price predictions.</li>
+            </ul>
+        </main>
+        <main>
+            <div class="container">
+                <h2>Sample Features:</h2>
+            <ul>
+                <li><strong>Carat (numerical):</strong> Weight of the gemstone in carats.</li>
+                <li><strong>Depth (numerical):</strong> Total depth percentage (from the top to the bottom of the gemstone).</li>
+                <li><strong>Table (numerical):</strong> Width of the top of the gemstone relative to the widest point.</li>
+                <li><strong>Cut (categorical):</strong> Quality of the cut (e.g., Fair, Good, Very Good, Premium, Ideal).</li>
+                <li><strong>Color (categorical):</strong> Color grade of the gemstone (e.g., D, E, F, G, H, I, J).</li>
+                <li><strong>Clarity (categorical):</strong> Clarity grade of the gemstone (e.g., IF, VVS1, VVS2, VS1, VS2, SI1, SI2, I1).</li>
+            </ul>
+            
+        </main>
+        <main>
+        <div class="container">
+            <h2>Get Predicted Price Now!</h2>
+            <form method="POST" action="/predict">
+                <!-- Your form elements go here (as shown in the previous response) -->
+            </form>
+            
+            <a href="/predict" class="btn-dashboard">Go to Dashboard</a>
+        </div>
+    </main>
+
+    <center><footer>
+        <p>&copy; 2023 Gemstone Price Prediction</p>
+    </footer></center>
+   
+</body>
+</html>
