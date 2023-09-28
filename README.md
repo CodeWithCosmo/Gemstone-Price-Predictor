@@ -1,4 +1,4 @@
-# **`Credit Card Payment Default Prediction Project`**
+# **`Gemstone Price Prediction Project`**
 
 <img src="https://www.ingleandrhode.co.uk/wp-content/uploads/2022/12/loose-sapphires-2048x922.jpg" width="1000" height="500">
 
